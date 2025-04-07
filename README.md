@@ -1,6 +1,8 @@
 # task_manager
 
-A new Flutter project.
+A To do List App For Set your Works that you have to do 
+And when u done with it 
+You can check off whenever you're done.
 
 ## Getting Started
 
