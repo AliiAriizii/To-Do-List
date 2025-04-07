@@ -1,18 +1,41 @@
-# task_manager
 
-A To do List App For Set your Works that you have to do 
-And when u done with it 
-You can check off whenever you're done.
+---
 
-## Getting Started
+## ✅ ۲. README برای To-Do List
 
-This project is a starting point for a Flutter application.
+```markdown
+# ✅ To-Do List App
 
-A few resources to get you started if this is your first Flutter project:
+یک اپلیکیشن ساده برای مدیریت کارها (Task Manager) با Flutter ساخته شده است.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 امکانات
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- اضافه کردن تسک جدید
+- تغییر وضعیت انجام‌شده / انجام‌نشده
+- حذف تسک‌ها
+- ذخیره‌سازی محلی با Hive یا SharedPreferences
+- طراحی ساده و مینیمال
+
+## 🧠 استفاده از BLoC
+
+در این پروژه از الگوی BLoC برای مدیریت وضعیت استفاده شده تا پروژه تمیز و قابل گسترش باشد.
+
+## 🚀 تکنولوژی‌ها
+
+- Flutter
+- Dart
+- Hive یا SharedPreferences
+- BLoC
+- Flutter Widgets
+
+## 🖼️ پیش‌نمایش
+
+*(تصاویر اپ را در صورت وجود اینجا اضافه کنید)*
+
+## 💻 نصب
+
+```bash
+git clone https://github.com/your-username/ToDoListApp.git
+cd ToDoListApp
+flutter pub get
+flutter run
