@@ -35,7 +35,7 @@
 ## 💻 نصب
 
 ```bash
-git clone https://github.com/your-username/ToDoListApp.git
+git clone https://github.com/AliiAriizii/ToDoListApp.git
 cd ToDoListApp
 flutter pub get
 flutter run
